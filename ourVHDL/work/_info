@@ -1,0 +1,223 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\crinklaw\Desktop
+Eoscillator
+Z0 w1425243857
+Z1 DPx4 work 24 waveformgeneratorpackage 0 22 Sn[bQhR2`kZ]K8lB^bGRR1
+Z2 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\Users\crinklaw\SynthesizerPrototypeV2\ourVHDL
+Z6 8C:/Users/crinklaw/SynthesizerPrototypeV2/ourVHDL/Oscillator.vhd
+Z7 FC:/Users/crinklaw/SynthesizerPrototypeV2/ourVHDL/Oscillator.vhd
+l0
+L11
+V2n1O5nW2=@I5;4>2bMi2z3
+Z8 OV;C;10.1b;51
+32
+Z9 !s108 1425259576.362000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/crinklaw/SynthesizerPrototypeV2/ourVHDL/Oscillator.vhd|
+Z11 !s107 C:/Users/crinklaw/SynthesizerPrototypeV2/ourVHDL/Oscillator.vhd|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+!s100 5XFg4GfUJZ977;Jg0U=Ni2
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 10 oscillator 0 22 2n1O5nW2=@I5;4>2bMi2z3
+l35
+L27
+V<b88zRX0fo58V3UOM?S=H3
+R8
+32
+R9
+R10
+R11
+R12
+R13
+!s100 3gIAlB0fJil6BJh8FWYmS2
+!i10b 1
+Esinlut
+Z14 w1425250712
+R1
+R2
+Z15 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+R3
+R4
+R5
+Z16 8C:/Users/crinklaw/SynthesizerPrototypeV2/ourVHDL/SinLut.vhd
+Z17 FC:/Users/crinklaw/SynthesizerPrototypeV2/ourVHDL/SinLut.vhd
+l0
+L12
+VTE9X_l>@3zU`Fe75QgogD2
+R8
+32
+Z18 !s108 1425259576.432000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/crinklaw/SynthesizerPrototypeV2/ourVHDL/SinLut.vhd|
+Z20 !s107 C:/Users/crinklaw/SynthesizerPrototypeV2/ourVHDL/SinLut.vhd|
+R12
+R13
+!s100 mE?9?Q`D<bRZS1N0oKjIM3
+!i10b 1
+Artl
+R1
+R2
+R15
+R3
+R4
+DEx4 work 6 sinlut 0 22 TE9X_l>@3zU`Fe75QgogD2
+l553
+L30
+V<1B_5SH1WCJ:hY>UEmmM@0
+R8
+32
+R18
+R19
+R20
+R12
+R13
+!s100 QAOEHnDURaBf8^i311:JD2
+!i10b 1
+Evoicegenerator
+Z21 w1425250643
+R1
+Z22 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R3
+R4
+R5
+Z23 8C:/Users/crinklaw/SynthesizerPrototypeV2/ourVHDL/VoiceGenerator.vhd
+Z24 FC:/Users/crinklaw/SynthesizerPrototypeV2/ourVHDL/VoiceGenerator.vhd
+l0
+L14
+V_OB92fBeRKTLJ_@UZo[Ec2
+R8
+32
+Z25 !s108 1425259576.592000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/crinklaw/SynthesizerPrototypeV2/ourVHDL/VoiceGenerator.vhd|
+Z27 !s107 C:/Users/crinklaw/SynthesizerPrototypeV2/ourVHDL/VoiceGenerator.vhd|
+R12
+R13
+!s100 daAUEJI]9Cg>J5MT8`i1K0
+!i10b 1
+Artl
+R1
+R22
+R3
+R4
+DEx4 work 14 voicegenerator 0 22 _OB92fBeRKTLJ_@UZo[Ec2
+l111
+L38
+VS0o1nzeA@n^`VfP^KkZ]U0
+R8
+32
+R25
+R26
+R27
+R12
+R13
+!s100 XZPh`6LJoY<dm6?T[aJ1[1
+!i10b 1
+Ewaveformgenerator
+Z28 w1425250155
+R1
+R22
+R3
+R4
+R5
+Z29 8C:/Users/crinklaw/SynthesizerPrototypeV2/ourVHDL/WaveformGenerator.vhd
+Z30 FC:/Users/crinklaw/SynthesizerPrototypeV2/ourVHDL/WaveformGenerator.vhd
+l0
+L13
+Vn??l4Q[Bh5544SR2T1G6k0
+R8
+32
+Z31 !s108 1425259576.662000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/crinklaw/SynthesizerPrototypeV2/ourVHDL/WaveformGenerator.vhd|
+Z33 !s107 C:/Users/crinklaw/SynthesizerPrototypeV2/ourVHDL/WaveformGenerator.vhd|
+R12
+R13
+!s100 @fgKfP2]<2>?T1jJj?eJm3
+!i10b 1
+Artl
+R1
+R22
+R3
+R4
+DEx4 work 17 waveformgenerator 0 22 n??l4Q[Bh5544SR2T1G6k0
+l126
+L91
+VjIKbOjnAYDUc:Wm1_]kW`3
+R8
+32
+R31
+R32
+R33
+R12
+R13
+!s100 WGKVzFoCZPCfRk4?zUaPR1
+!i10b 1
+Ewaveformgenerator_tb
+Z34 w1425259559
+R1
+R2
+R15
+R3
+R4
+R5
+Z35 8C:\Users\crinklaw\SynthesizerPrototypeV2\ourVHDL\WaveformGenerator_tb.vhd
+Z36 FC:\Users\crinklaw\SynthesizerPrototypeV2\ourVHDL\WaveformGenerator_tb.vhd
+l0
+L7
+VFNEEkzkZjKKznlHH=fm`>2
+R8
+32
+Z37 !s108 1425259576.725000
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\crinklaw\SynthesizerPrototypeV2\ourVHDL\WaveformGenerator_tb.vhd|
+Z39 !s107 C:\Users\crinklaw\SynthesizerPrototypeV2\ourVHDL\WaveformGenerator_tb.vhd|
+R12
+R13
+!s100 gcAm04k8iCZz:nb?6LodY0
+!i10b 1
+Abehavior
+R1
+R2
+R15
+R3
+R4
+DEx4 work 20 waveformgenerator_tb 0 22 FNEEkzkZjKKznlHH=fm`>2
+l43
+L11
+V6QW>RRjAzSQoA9U?mzlQe3
+!s100 fKRJNIHghbe=Zf6aj9_ng3
+R8
+32
+R37
+R38
+R39
+R12
+R13
+!i10b 1
+Pwaveformgeneratorpackage
+R3
+R4
+w1425243879
+R5
+8C:/Users/crinklaw/SynthesizerPrototypeV2/ourVHDL/WaveformGeneratorPackage.vhd
+FC:/Users/crinklaw/SynthesizerPrototypeV2/ourVHDL/WaveformGeneratorPackage.vhd
+l0
+L4
+VSn[bQhR2`kZ]K8lB^bGRR1
+!s100 :8e=V>F3:?U>S2i:l_d;?2
+R8
+32
+!i10b 1
+!s108 1425259576.795000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/crinklaw/SynthesizerPrototypeV2/ourVHDL/WaveformGeneratorPackage.vhd|
+!s107 C:/Users/crinklaw/SynthesizerPrototypeV2/ourVHDL/WaveformGeneratorPackage.vhd|
+R12
+R13
